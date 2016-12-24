@@ -1,1 +1,1 @@
-# Game-Snake
+# Seja bem vindo ao Projeto Snake
